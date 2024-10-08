@@ -1,0 +1,17 @@
+#btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    text-shadow: 2px 2px 2px #38d1ff;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #3498db;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  
+  #btn:hover {
+    background: #38d1ff;
+    text-decoration: none;
+  }
