@@ -2,7 +2,7 @@
     -webkit-border-radius: 10;
     -moz-border-radius: 10;
     border-radius: 10px;
-    text-shadow: 2px 2px 2px #38d1ff;
+    text-shadow: 2px 2px 2px #000507;
     font-family: Arial;
     color: #ffffff;
     font-size: 15px;
@@ -14,4 +14,23 @@
   #btn:hover {
     background: #38d1ff;
     text-decoration: none;
+  }
+
+  #navbar {
+    font-family: Open;
+    color: #ffffff;
+    font-size: 20px;
+    background-image: url(imgs/cartoon-raining-isolated-on-white-background-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  main {
+    background-image: url(imgs/cartoon-raining-isolated-on-white-background-vector.jpg);
+    background-repeat:repeat-y;
+    background-size: cover;
+    }
+  .dropdown-menu {
+    background-color: #456f8b;
   }
