@@ -26,11 +26,5 @@
     padding: 5px 10px 5px 10px;
     text-decoration: none;
   }
-  main {
-    background-image: url(imgs/cartoon-raining-isolated-on-white-background-vector.jpg);
-    background-repeat:repeat-y;
-    background-size: cover;
-    }
-  .dropdown-menu {
-    background-color: #456f8b;
-  }
+
+
